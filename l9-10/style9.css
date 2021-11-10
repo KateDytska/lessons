@@ -1,0 +1,102 @@
+.hs{
+    height: 100vh;
+    width: 100%;
+    background-image: url("/l9-10/Layer\ 10@1X.png"); 
+    background-size: cover; 
+}
+.hs1{
+    height: 100vh;
+    width: 100%;
+    background-image: url("/l9-10/Rectangle\ 2@1X.png"); 
+    background-size: cover; 
+}
+#logo{
+    size: 20px;
+    padding-top: 40px;
+    margin-left: 229px;
+    float: left;
+}
+#nav{
+    padding-top: 45px;
+    font-size: 14px;
+    padding-left: 15px;
+}
+.nav{
+    margin-right: 229px;
+    float: right;
+}
+img{
+    height: 786px;
+    width: 1635px;
+}
+h1{
+    text-align: center;
+    padding-top: 80px ;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+button{
+    width: 181px;
+    height: 51px;
+    border: 2px solid #FFFFFF;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+.servis{
+    height: 100vh;
+    width: 100%;
+}
+
+#shap{
+    width: 50px;
+    height: 3px;
+    border-color: #000;
+    position: absolute;
+    left: 0; right: 0; bottom: 0; right: 0;
+}
+#serv{
+    size: 20px;
+    text-align: center;
+}
+#we{
+    size: 19px;
+    text-align: center;
+}
+.s1{
+    height: 218px;
+    width: 345px;
+    margin-top: 40px;
+}
+#FA{
+    height: 91px;
+    width: 91px;
+    padding: auto;
+}
+#AT{
+    size: 20px;
+    text-align: center;
+    padding-top: 120px;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+#name{
+    font-size: 14px;
+    text-align: center;
+}
+#cont{
+    font-size: 14px;
+    text-align: center;
+}
+.s2{
+    height: 218px;
+    width: 345px;
+    margin-top: 40px;
+}
+.s3{
+     height: 218px;
+    width: 345px;
+    margin-top: 40px;
+}

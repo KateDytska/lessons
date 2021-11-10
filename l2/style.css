@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(246, 223, 255);
+}
+p{
+    font-size: 16px;
+}
+img{
+    width: 225px;
+    height: 190px;
+    border-radius: 50%;
+    border: 10px;
+    border-color: rgb(29, 85, 29);
+}
+a{
+    font-size: 20px;
+}
+h1{
+    font-size: 150%
+}
+h2{
+    font-size: 120%
+}
