@@ -1,0 +1,51 @@
+.vis{
+    color: darkcyan;
+}
+.vis:visited{
+    color: blueviolet;
+}
+.link{
+    color: darkcyan;
+}
+.link:link{
+    color: chartreuse;
+}
+.hov{
+    font-size: 15px;
+    color: darkcyan;
+}
+.hov:hover{
+    color: #000;
+    font-size: 20px;
+}
+.act{
+    color: darkcyan;
+}
+.act:active{
+    color: coral;
+}
+.focus{
+    color: darkcyan;
+}
+.focus:focus{
+    color: darkblue;
+}
+h1{
+  font-size: 25px;
+}
+.in{
+    height: 25px;
+    width: 150px;
+    color: darkgray;
+}
+.content{
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+li{
+    list-style-type: none;
+}
+

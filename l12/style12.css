@@ -1,0 +1,104 @@
+table{
+    border: black solid 2px;
+    
+}
+.green{
+    background-color: rgb(0, 153, 13);
+}
+.white{
+    width: 400px;
+}
+.hello{
+    size: 20px;
+    text-align: center;
+    color: azure;
+}
+
+.strel{
+    height: 40px;
+    width: 50px;
+    padding-left: 150px;
+    border-radius: 50%;
+    float: center;
+}
+.contact{
+    size: 20px;
+    text-align: center;
+    color: rgb(61, 61, 61);
+}
+.mm{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: azure;
+    float: left;
+    border: rgb(46, 46, 46) solid 1px;
+    margin-left: 25px;
+}
+h3{
+    color: rgb(78, 78, 78);
+    size: 20px;
+    text-align: center;
+}
+.mm:hover{
+   background-color: rgb(46, 46, 46);
+}
+h3:hover{
+    color: azure;
+}
+.wh{
+    color: rgb(255, 255, 255);
+    size: 12px;
+    text-align: center;
+    margin: 5px;
+}
+.black{
+    color: rgb(0, 0, 0);
+    size: 12px;
+    text-align: center;
+    float: center;
+}
+.conta{
+    flex-direction: column;
+}
+.cont{
+    height: 50px;
+    width: 150px;
+    color: rgb(190, 190, 190);
+    float: center;
+    margin-left: 25px;
+}
+.elips{
+    height: 50px;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    float: center;
+    align-content: stretch;
+}
+button{
+    background-color: rgb(0, 153, 13);
+    text-align: center;
+    height: 40px;
+    width: 80px;
+    float: center;
+    margin-left: 150px;
+    margin-bottom: 15px;
+}
+button:hover{
+    box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+}
+textarea{
+    height: 100px;
+    width: 300px;
+    float: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}
+.black1{
+    float: left;
+    margin-left: 120px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
